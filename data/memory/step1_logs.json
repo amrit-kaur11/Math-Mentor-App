@@ -1,0 +1,191 @@
+[
+  {
+    "timestamp": "2026-02-10T05:14:06.665129+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "x+2",
+    "verified_text": "x+2",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-10T05:14:23.441062+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "x+2 = 5",
+    "verified_text": "x+2 = 5",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-10T05:14:42.341863+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2x + 7 = 10",
+    "verified_text": "2x + 7 = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-10T05:33:25.789865+00:00",
+    "input_type": "image",
+    "raw_input_ref": "basic.jpeg",
+    "extracted_text": "4 2",
+    "verified_text": "4 2",
+    "confidence": 0.852871555920176,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-10T07:55:28.941679+00:00",
+    "input_type": "image",
+    "raw_input_ref": "basic.jpeg",
+    "extracted_text": "4 2",
+    "verified_text": "4 2",
+    "confidence": 0.852871555920176,
+    "hitl_used": true
+  },
+  {
+    "timestamp": "2026-02-10T09:31:41.217036+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2x + 7 = 10",
+    "verified_text": "2x + 7 = 10",
+    "confidence": 1.0,
+    "hitl_used": true
+  },
+  {
+    "timestamp": "2026-02-10T09:32:30.594468+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "x^2 - 5x + 6 = 0",
+    "verified_text": "x^2 - 5x + 6 = 0",
+    "confidence": 1.0,
+    "hitl_used": true
+  },
+  {
+    "timestamp": "2026-02-10T09:32:51.095052+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "Find the derivative of x^3",
+    "verified_text": "Find the derivative of x^3",
+    "confidence": 1.0,
+    "hitl_used": true
+  },
+  {
+    "timestamp": "2026-02-12T16:02:33.381627+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2*x + 7 = 10",
+    "verified_text": "2*x + 7 = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T16:05:13.607743+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 7 = 10",
+    "verified_text": "2 * x + 7 = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T16:15:31.238014+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 4 = 10",
+    "verified_text": "2 * x + 4 = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T17:00:24.428955+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 5 = 10",
+    "verified_text": "2 * x + 5 = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T17:01:50.049991+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 5 = 10",
+    "verified_text": "2 * x + 5 = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T17:13:01.415969+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 5  = 10",
+    "verified_text": "2 * x + 5  = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T17:16:07.288775+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 6  = 10",
+    "verified_text": "2 * x + 6  = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T17:22:14.848498+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 6  = 10",
+    "verified_text": "2 * x + 6  = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T17:24:44.036227+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 6  = 10",
+    "verified_text": "2 * x + 6  = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T17:32:32.403754+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 4  = 10",
+    "verified_text": "2 * x + 4  = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T17:45:10.848590+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 4  = 12",
+    "verified_text": "2 * x + 4  = 12",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T17:46:10.279366+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 5 = 10",
+    "verified_text": "2 * x + 5 = 10",
+    "confidence": 1.0,
+    "hitl_used": false
+  },
+  {
+    "timestamp": "2026-02-12T17:46:26.632868+00:00",
+    "input_type": "text",
+    "raw_input_ref": "typed_input",
+    "extracted_text": "2 * x + 5 = 11",
+    "verified_text": "2 * x + 5 = 11",
+    "confidence": 1.0,
+    "hitl_used": false
+  }
+]

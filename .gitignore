@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+*.index
+.env
+rag/faiss_index.index
+rag/documents.pkl
+memory/*.json

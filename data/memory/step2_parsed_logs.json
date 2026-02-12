@@ -1,0 +1,258 @@
+[
+    {
+        "timestamp": "2026-02-12T16:15:31.249049+00:00",
+        "verified_text": "2 * x + 4 = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 4 = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+4=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T16:38:46.628872+00:00",
+        "verified_text": "2 * x + 4 = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 4 = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+4=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:00:24.435446+00:00",
+        "verified_text": "2 * x + 5 = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 5 = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+5=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:01:50.057000+00:00",
+        "verified_text": "2 * x + 5 = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 5 = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+5=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:13:01.421963+00:00",
+        "verified_text": "2 * x + 5  = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 5  = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+5=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:16:07.024756+00:00",
+        "verified_text": "2 * x + 5  = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 5  = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+5=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:16:07.297755+00:00",
+        "verified_text": "2 * x + 6  = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 6  = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+6=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:22:14.853505+00:00",
+        "verified_text": "2 * x + 6  = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 6  = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+6=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:24:44.042227+00:00",
+        "verified_text": "2 * x + 6  = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 6  = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+6=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:32:32.134687+00:00",
+        "verified_text": "2 * x + 6  = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 6  = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+6=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:32:32.410761+00:00",
+        "verified_text": "2 * x + 4  = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 4  = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+4=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:45:10.853589+00:00",
+        "verified_text": "2 * x + 4  = 12",
+        "parsed_output": {
+            "raw_question": "2 * x + 4  = 12",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+4=12",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:46:09.990364+00:00",
+        "verified_text": "2 * x + 4  = 12",
+        "parsed_output": {
+            "raw_question": "2 * x + 4  = 12",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+4=12",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:46:10.288373+00:00",
+        "verified_text": "2 * x + 5 = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 5 = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+5=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:46:26.373324+00:00",
+        "verified_text": "2 * x + 5 = 10",
+        "parsed_output": {
+            "raw_question": "2 * x + 5 = 10",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+5=10",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    },
+    {
+        "timestamp": "2026-02-12T17:46:26.640868+00:00",
+        "verified_text": "2 * x + 5 = 11",
+        "parsed_output": {
+            "raw_question": "2 * x + 5 = 11",
+            "problem_type": "equation",
+            "math_domain": "algebra",
+            "variables": [
+                "x"
+            ],
+            "degree": 1,
+            "normalized_expression": "2*x+5=11",
+            "is_ambiguous": false,
+            "ambiguity_reson": null
+        }
+    }
+]

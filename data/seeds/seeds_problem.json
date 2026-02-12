@@ -1,0 +1,26 @@
+[
+  {
+    "id": "alg_001",
+    "problem_text": "Solve x + 2 = 5",
+    "topic": "algebra",
+    "difficulty": "easy"
+  },
+  {
+    "id": "alg_002",
+    "problem_text": "Find the roots of x^2 + 5x + 6 = 0",
+    "topic": "algebra",
+    "difficulty": "easy"
+  },
+  {
+    "id": "prob_001",
+    "problem_text": "A coin is tossed once. What is the probability of getting a head?",
+    "topic": "probability",
+    "difficulty": "easy"
+  },
+  {
+    "id": "calc_001",
+    "problem_text": "Find the derivative of x^2 with respect to x",
+    "topic": "calculus",
+    "difficulty": "easy"
+  }
+]
