@@ -2,5 +2,4 @@ streamlit==1.32.0
 sympy==1.12
 numpy==1.26.4
 sentence-transformers==2.6.1
-torch==2.1.2
 pillow==10.2.0
