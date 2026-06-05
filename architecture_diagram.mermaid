@@ -1,0 +1,36 @@
+graph TD
+    User([Student]) --> UI{Streamlit App}
+    
+    UI -->|Image| OCR[Tesseract OCR]
+    UI -->|Audio| ASR[Groq Whisper]
+    UI -->|Text| TextIn[Text Input]
+    
+    OCR --> HITL1((HITL: Confirm/Edit Extraction))
+    ASR --> HITL1
+    TextIn --> HITL1
+    
+    HITL1 --> Parser[Parser Agent]
+    
+    Parser --> |Ambiguous/Missing Info| HITL2((HITL: Clarification))
+    HITL2 --> Parser
+    
+    Parser -->|Cleaned Problem| Router[Intent Router Agent]
+    
+    Router --> |Fetch Context| RAG[(ChromaDB KB)]
+    Router --> |Fetch Context| Memory[(SQLite Past Problems)]
+    
+    Router --> Solver[Solver Agent]
+    
+    Solver --> Verifier[Verifier / Critic Agent]
+    
+    Verifier -->|Logical Error| Solver
+    Verifier -->|Verified Correct| Explainer[Explainer / Tutor Agent]
+    
+    Explainer --> Output[Step-by-Step Explanation]
+    Output --> UI
+    
+    UI --> Feedback((HITL: Thumbs Up/Down + Comment))
+    Feedback --> Memory
+    
+    classDef agent fill:#f9f,stroke:#333,stroke-width:2px;
+    class Parser,Router,Solver,Verifier,Explainer agent;

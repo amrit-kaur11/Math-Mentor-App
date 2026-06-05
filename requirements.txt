@@ -1,4 +1,18 @@
 streamlit==1.32.0
+<<<<<<< HEAD
 sympy==1.12
 numpy==2.1.0
 pillow==10.2.0
+=======
+langchain==0.1.13
+langchain-groq
+langgraph==0.0.26
+chromadb==0.4.24
+faiss-cpu==1.8.0
+pytesseract==0.3.10
+Pillow==10.2.0
+groq
+pydantic>=2.7.0
+python-dotenv==1.0.1
+sentence-transformers==2.5.1
+>>>>>>> 6521918 (Update Math Mentor UI and agent workflow)
